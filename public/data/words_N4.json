@@ -1,0 +1,17 @@
+[
+  {
+    "id": 5,
+    "level": "N4",
+    "word": "急ぐ",
+    "reading_ruby": "急[いそ]ぐ",
+    "search_key": "いそぐ",
+    "part_of_speech": "五段動詞",
+    "meaning": "서두르다",
+    "usage_chip": "～を 急ぐ",
+    "particle": "を",
+    "example_jp": "出発を急ぎましょう。",
+    "example_ko": "출발을 서두릅시다.",
+    "usage_note": "시간이 촉박하여 행동을 빨리 할 때 사용",
+    "memo": "행동 동사"
+  }
+]

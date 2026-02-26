@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3,
+    "level": "N1",
+    "word": "貶下",
+    "reading_ruby": "貶[へん]下[げ]",
+    "search_key": "へんげ",
+    "part_of_speech": "名詞",
+    "meaning": "가치를 깎아내림 (폄하)",
+    "usage_chip": "～を 貶下する",
+    "particle": "を",
+    "example_jp": "他人の努力を不当に貶下すべきではない。",
+    "example_ko": "타인의 노력을 부당하게 폄하해서는 안 된다.",
+    "usage_note": "주로 문어체에서 사용되며 부정적인 뉘앙스를 가짐",
+    "memo": "고난도 어휘"
+  },
+  {
+    "id": 4,
+    "level": "N1",
+    "word": "躊躇",
+    "reading_ruby": "躊[ちゅう]躇[ちょ]",
+    "search_key": "ちゅうちょ",
+    "part_of_speech": "名詞・スル",
+    "meaning": "주저함, 망설임",
+    "usage_chip": "～を 躊躇する",
+    "particle": "を",
+    "example_jp": "決断を躊躇している暇はない。",
+    "example_ko": "결단을 주저할 틈은 없다.",
+    "usage_note": "어떤 행동을 하기 전에 망설이는 상태",
+    "memo": "심리 상태"
+  }
+]

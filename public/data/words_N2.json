@@ -1,0 +1,17 @@
+[
+  {
+    "id": 7,
+    "level": "N2",
+    "word": "曖昧",
+    "reading_ruby": "曖[あい]昧[まい]",
+    "search_key": "あいまい",
+    "part_of_speech": "な形容詞",
+    "meaning": "애매함, 모호함",
+    "usage_chip": "曖昧な 返事",
+    "particle": "な",
+    "example_jp": "曖昧な返事をしてごまかした。",
+    "example_ko": "애매한 대답을 하고 얼버무렸다.",
+    "usage_note": "태도나 상황이 분명하지 않을 때 사용",
+    "memo": "심리/태도"
+  }
+]

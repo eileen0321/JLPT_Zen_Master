@@ -1,0 +1,17 @@
+[
+  {
+    "id": 6,
+    "level": "N3",
+    "word": "条件",
+    "reading_ruby": "条[じょう]件[けん]",
+    "search_key": "じょうけん",
+    "part_of_speech": "名詞",
+    "meaning": "조건",
+    "usage_chip": "条件が 合う",
+    "particle": "が",
+    "example_jp": "希望の条件に合う仕事を探す。",
+    "example_ko": "희망 조건에 맞는 일을 찾다.",
+    "usage_note": "어떤 일이 이루어지기 위해 갖추어야 할 요소",
+    "memo": "비즈니스/일상"
+  }
+]
